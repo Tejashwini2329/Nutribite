@@ -1,0 +1,2 @@
+Reset Link for tejashwini23pandit@gmail.com: http://localhost/nutribite/reset_password.php?token=ea57efc5343e37e3daa268aba33fea656eed9ea66ec4388e9fe5cd7f34cbad43c48ac23a074bc4805a238d5f7062ac450698
+Reset Link for tejashwini23pandit@gmail.com: http://localhost/nutribite/reset_password.php?token=c56259107113060a57492d6c44f5331421c377c91bc6f1ce3f8fbe17efd386c2cffe4a35d83bf365035292772d7070a3aa8c
